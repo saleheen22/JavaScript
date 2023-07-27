@@ -1,1 +1,1 @@
-return str.reverse();
+ // frqn[i] = frqn[i] +1;
